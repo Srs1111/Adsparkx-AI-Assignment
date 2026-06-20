@@ -1,0 +1,1 @@
+Information about storing files in cloud (AWS S3, Firebase storage, uploads/downloads)
