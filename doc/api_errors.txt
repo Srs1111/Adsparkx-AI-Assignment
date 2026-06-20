@@ -1,0 +1,1 @@
+How to use API keys, tokens, login/authentication methods such as JWT (JSON Web Tokens), OAuth, and HTTP headers for securing and accessing APIs.
